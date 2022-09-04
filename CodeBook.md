@@ -20,6 +20,8 @@
     
     LAYING
 
+# Other Columns
+
 The values under these columns contain the mean of the multiple measurements of 
 the feature from the same subject performing the same activity.
 
