@@ -1,10 +1,10 @@
 'average.txt' contains the mean of all measurements' mean and standard deviation of each subject and each activity.  
 
-#subject
+# subject
 
   A number from 1-30 identifying the subject who performed the activities for the measurements obtained.  
   
-#activity
+# activity
 
   activity performed by the subject when the measurements were taken
     
